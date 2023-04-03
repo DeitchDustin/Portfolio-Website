@@ -7,19 +7,21 @@ const Header = () => {
     <header id="header">
       <div className="container header__container">
         <div className="header__profile">
-          <img src={HeaderImage} alt="Header Portrait"/>
+          <img src={HeaderImage} alt="Header Portait" />
         </div>
         <h3>Dustin Deitch</h3>
         <p>
-          ***Intro Paragraph Placeholder***
+        Full-Stack Software Engineer
         </p>
-        <a href="#contact">Lets Talk</a>
-        <a href="#portfolio">My Work</a>
-      </div>
-      <div className="header__socials">
-        {
-          data.map(item => <a key={item.id} href={item.link} target="_blank" rel="noopener noreferrer">{item.icon}</a>)
-        }
+        <div className="header__cta">
+          <a href="#contact" className='btn primary'>Let's Talk</a>
+          <a href="#portfolio" className='btn light'>My Work</a>
+        </div>
+        <div className="header__socials">
+          {
+            data.map(item => <a key={item.id} href={item.link} target="_blank" rel="noopener noreferrer">{item.icon}</a>)
+          }
+        </div>
       </div>
     </header>
   )
