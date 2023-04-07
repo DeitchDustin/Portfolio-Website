@@ -1,7 +1,9 @@
 import './about.css';
 import AboutImage from '../../assets/about.jpg';
 import CV from '../../assets/cv.pdf';
-import {HiDownload} from 'react-icons/hi'
+import {HiDownload} from 'react-icons/hi';
+import Card from '../../components/Card';
+import data from './data.js';
 
 const About = () => {
   return (
@@ -14,7 +16,17 @@ const About = () => {
         </div>
         <div className='about__right'>
           <h2>About Me</h2>
-          <div className='about__cards'></div>
+          <div className='about__cards'>
+            {
+              data.map(item => (
+                <Card key={item.id} className='about__card'>
+                  <span className='about__card-icon'> {item.icon} </span>
+                  <h5>{item.title}</h5>
+                  <small>{item.desc}</small>
+                </Card>
+              ))
+            }
+          </div>
           <p>
             As a former geologist, Navy veteran, and Pacific Crest Trail 'Thru' Hiker, I've traversed many different paths that have each imparted valuable lessons and skills. From working alongside diverse groups of people in the Navy, to enduring and adapting to various environments and conditions as a field geologist, my experiences have equipped me with a breadth of knowledge and expertise.
           </p>
