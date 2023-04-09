@@ -50,16 +50,16 @@
   margin: 0.5rem 0 2rem;
 }
 
-.portfolio__projecr-cta {
+.portfolio__project-cta {
   display: flex;
   gap: 1rem;
 }
 
-.portfolio__projecr:hover .btn.sm{
+.portfolio__project:hover .btn.sm{
   border: var(--color-white);
 }
 
-.portfolio__projecr:hover .btn.sm.primary {
+.portfolio__project:hover .btn.sm.primary {
   background: transparent;
   color: var(--color-primary);
   border-color: var(--color-primary);
