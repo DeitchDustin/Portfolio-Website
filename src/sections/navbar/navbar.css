@@ -40,6 +40,23 @@ nav {
   cursor: pointer;
 }
 
+#floating__nav {
+  animation: animateFloatingNav 300ms ease forwards;
+  }
+
+
+
+  @keyframes animateFloatingNav {
+          from {
+              opacity: 0;
+              bottom: -5rem;
+          }
+          to {
+              opacity: 1;
+              bottom: 3rem;
+          }
+      }
+
 /* HIDE NAV MENU ON TABLETS AND PHONES */
 @media screen and (max-width: 1024px) {
   .nav__menu {
