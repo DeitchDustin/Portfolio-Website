@@ -13,82 +13,82 @@ const data = [
         id: 1,
         category: 'uiux',
         image: Image1,
-        title: "Project Title One (UIUX)",
+        title: "PlaceHolder (UIUX)",
         desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
-        demo: 'http://egatortutorials.com',
-        github: 'https://github.com/egattor'
+        demo: 'https://www.firstbenefits.org/wp-content/uploads/2017/10/placeholder.png',
+        github: 'https://github.com/DeitchDustin'
     },
     {
         id: 2,
         category: 'frontend',
         image: Image2,
-        title: "Project Title Two (Frontend)",
+        title: "PlaceHolder (Frontend)",
         desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
-        demo: 'http://egatortutorials.com',
-        github: 'https://github.com/egattor'
+        demo: 'https://www.firstbenefits.org/wp-content/uploads/2017/10/placeholder.png',
+        github: 'https://github.com/DeitchDustin'
     },
     {
         id: 3,
         category: 'frontend',
         image: Image3,
-        title: "Project Title Three (Frontend)",
+        title: "PlaceHolder (Frontend)",
         desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
-        demo: 'http://egatortutorials.com',
-        github: 'https://github.com/egattor'
+        demo: 'https://www.firstbenefits.org/wp-content/uploads/2017/10/placeholder.png',
+        github: 'https://github.com/DeitchDustin'
     },
     {
         id: 4,
         category: 'uiux',
         image: Image4,
-        title: "Project Title Four (UIUX)",
+        title: "PlaceHolder (UIUX)",
         desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
-        demo: 'http://egatortutorials.com',
-        github: 'https://github.com/egattor'
+        demo: 'https://www.firstbenefits.org/wp-content/uploads/2017/10/placeholder.png',
+        github: 'https://github.com/DeitchDustin'
     },
     {
         id: 5,
         category: 'uiux',
         image: Image5,
-        title: "Project Title Five (UIUX)",
+        title: "PlaceHolder (UIUX)",
         desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut! ",
-        demo: 'http://egatortutorials.com',
-        github: 'https://github.com/egattor'
+        demo: 'https://www.firstbenefits.org/wp-content/uploads/2017/10/placeholder.png',
+        github: 'https://github.com/DeitchDustin'
     },
     {
         id: 6,
         category: 'frontend',
         image: Image6,
-        title: "Project Title Six (Frontend)",
+        title: "PlaceHolder (Frontend)",
         desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
-        demo: 'http://egatortutorials.com',
-        github: 'https://github.com/egattor'
+        demo: 'https://www.firstbenefits.org/wp-content/uploads/2017/10/placeholder.png',
+        github: 'https://github.com/DeitchDustinr'
     },
     {
         id: 7,
         category: 'frontend',
         image: Image7,
-        title: "Project Title Seven (Frontend)",
+        title: "PlaceHolder (Frontend)",
         desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
-        demo: 'http://egatortutorials.com',
-        github: 'https://github.com/egattor'
+        demo: 'https://www.firstbenefits.org/wp-content/uploads/2017/10/placeholder.png',
+        github: 'https://github.com/DeitchDustin'
     },
     {
         id: 8,
         category: 'backend',
         image: Image8,
-        title: "Project Title Eight (Backend)",
+        title: "PlaceHolder (Backend)",
         desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
-        demo: 'http://egatortutorials.com',
-        github: 'https://github.com/egattor'
+        demo: 'https://www.firstbenefits.org/wp-content/uploads/2017/10/placeholder.png',
+        github: 'https://github.com/DeitchDustin'
     },
     {
         id: 9,
         category: 'frontend',
         image: Image9,
-        title: "Project Title Nine (Frontend)",
+        title: "PlaceHolder (Frontend)",
         desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
-        demo: 'http://egatortutorials.com',
-        github: 'https://github.com/egattor'
+        demo: 'https://www.firstbenefits.org/wp-content/uploads/2017/10/placeholder.png',
+        github: 'https://github.com/DeitchDustin'
     }
 ]
 
