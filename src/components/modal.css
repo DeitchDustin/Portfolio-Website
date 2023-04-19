@@ -10,7 +10,7 @@
   opacity: 0;
   animation: animateBackdrop 500ms ease-in forwards;
 }
-
+ 
 
 @keyframes animateBackdrop {
 to {
