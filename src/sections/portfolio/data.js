@@ -11,21 +11,21 @@ import Image9 from '../../assets/project9.jpg'
 const data = [
     {
         id: 1,
-        category: 'uiux',
+        category: 'FullStack',
         image: Image1,
-        title: "PlaceHolder (UIUX)",
-        desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
+        title: "Atelier E-commerce (FullStack)",
+        desc: "An e-commerce platform developed with React, JavaScript, Node.js, postgreSQL and Express, featuring a homepage, customer reviews area, associated product suggestions, and search capabilities.",
         demo: 'https://www.firstbenefits.org/wp-content/uploads/2017/10/placeholder.png',
-        github: 'https://github.com/DeitchDustin'
+        github: 'https://github.com/Dynamikes/FEC'
     },
     {
         id: 2,
-        category: 'frontend',
+        category: 'FullStack',
         image: Image2,
-        title: "PlaceHolder (Frontend)",
-        desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
+        title: "Free-Time Calendar (FullStack)",
+        desc: "A scheduling app built with React, Next.js, Node, Express, JavaScript, and Firebase, offering user authentication, sign-in/out functionality, Google Calendar synchronization, friend connections, and shared free-time visibility.",
         demo: 'https://www.firstbenefits.org/wp-content/uploads/2017/10/placeholder.png',
-        github: 'https://github.com/DeitchDustin'
+        github: 'https://github.com/Skipper-Time/FreeTime'
     },
     {
         id: 3,
