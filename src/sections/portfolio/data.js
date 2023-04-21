@@ -80,15 +80,6 @@ const data = [
         desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
         demo: 'https://www.firstbenefits.org/wp-content/uploads/2017/10/placeholder.png',
         github: 'https://github.com/DeitchDustin'
-    },
-    {
-        id: 9,
-        category: 'frontend',
-        image: Image9,
-        title: "PlaceHolder (Frontend)",
-        desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
-        demo: 'https://www.firstbenefits.org/wp-content/uploads/2017/10/placeholder.png',
-        github: 'https://github.com/DeitchDustin'
     }
 ]
 
