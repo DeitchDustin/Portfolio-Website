@@ -27,60 +27,6 @@ const data = [
         demo: 'https://www.firstbenefits.org/wp-content/uploads/2017/10/placeholder.png',
         github: 'https://github.com/Skipper-Time/FreeTime'
     },
-    {
-        id: 3,
-        category: 'frontend',
-        image: Image3,
-        title: "PlaceHolder (Frontend)",
-        desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
-        demo: 'https://www.firstbenefits.org/wp-content/uploads/2017/10/placeholder.png',
-        github: 'https://github.com/DeitchDustin'
-    },
-    {
-        id: 4,
-        category: 'uiux',
-        image: Image4,
-        title: "PlaceHolder (UIUX)",
-        desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
-        demo: 'https://www.firstbenefits.org/wp-content/uploads/2017/10/placeholder.png',
-        github: 'https://github.com/DeitchDustin'
-    },
-    {
-        id: 5,
-        category: 'uiux',
-        image: Image5,
-        title: "PlaceHolder (UIUX)",
-        desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut! ",
-        demo: 'https://www.firstbenefits.org/wp-content/uploads/2017/10/placeholder.png',
-        github: 'https://github.com/DeitchDustin'
-    },
-    {
-        id: 6,
-        category: 'frontend',
-        image: Image6,
-        title: "PlaceHolder (Frontend)",
-        desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
-        demo: 'https://www.firstbenefits.org/wp-content/uploads/2017/10/placeholder.png',
-        github: 'https://github.com/DeitchDustinr'
-    },
-    {
-        id: 7,
-        category: 'frontend',
-        image: Image7,
-        title: "PlaceHolder (Frontend)",
-        desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
-        demo: 'https://www.firstbenefits.org/wp-content/uploads/2017/10/placeholder.png',
-        github: 'https://github.com/DeitchDustin'
-    },
-    {
-        id: 8,
-        category: 'backend',
-        image: Image8,
-        title: "PlaceHolder (Backend)",
-        desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
-        demo: 'https://www.firstbenefits.org/wp-content/uploads/2017/10/placeholder.png',
-        github: 'https://github.com/DeitchDustin'
-    }
 ]
 
 
