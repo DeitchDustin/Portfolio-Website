@@ -49,7 +49,6 @@ const App = () => {
   }, [siteYPostion])
 
 
-
   return (
     <main className={`${themeState.primary} ${themeState.background}`} ref={mainRef}>
       <Navbar/>
